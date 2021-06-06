@@ -1,2 +1,3 @@
-# brainlong-learning
-some forms of knowledge awaken at uncertain times.
+➗ _math_
+
+[Bias Isn’t Always Bad | mbishop (Feb 5, 2020) | Reality AI](https://reality.ai/bias-isnt-always-bad/)
