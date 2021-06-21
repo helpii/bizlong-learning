@@ -4,6 +4,8 @@ https://www.whatsmydns.net/#NS/
 
 [Choosing between Netlify, Vercel and Digital Ocean | Zell (Feb 17, 2021) | Zellwk](https://zellwk.com/blog/netlify-vercel-digital-ocean/)
 
+[Do Vercel Serverless Functions support WebSocket connections? (No.) | Vercel](https://vercel.com/support/articles/do-vercel-serverless-functions-support-websocket-connections)
+
 ---
 
 ➗ _math_
