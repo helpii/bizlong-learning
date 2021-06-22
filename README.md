@@ -6,7 +6,7 @@ https://www.whatsmydns.net/#NS/
 
 [Do Vercel Serverless Functions support WebSocket connections? (No.) | Vercel](https://vercel.com/support/articles/do-vercel-serverless-functions-support-websocket-connections)
 
-[7 Database Paradigms | Fireship (Sep 3, 2020) | Youtube](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
+✴ [7 Database Paradigms | Fireship (Sep 3, 2020) | Youtube](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
 
 ---
 
