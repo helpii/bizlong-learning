@@ -12,6 +12,12 @@ https://www.whatsmydns.net/#NS/
 
 ---
 
+🐜 _labor_ 
+
+✴ [Bootstrapping a startup sucks (and here’s why you should do it)](https://medium.com/make-stuff-happen/bootstrapping-a-startup-sucks-and-heres-why-you-should-do-it-67031340b60e)
+
+---
+
 ➗ _math_
 
 [Bias Isn’t Always Bad | mbishop (Feb 5, 2020) | Reality AI](https://reality.ai/bias-isnt-always-bad/)
