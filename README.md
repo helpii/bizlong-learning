@@ -10,6 +10,8 @@ https://www.whatsmydns.net/#NS/
 
 ✴ [Deploy Node.js App To Digital Ocean Server | Traversy Media (Jan 21, 2017) | Youtube](https://www.youtube.com/watch?v=RE2PLyFqCzE)
 
+[Docker For Beginners: From Docker Desktop to Deployment | Travis Media | Youtube](https://www.youtube.com/watch?v=i7ABlHngi1Q)
+
 ---
 
 🐜 _labor_ 
