@@ -12,6 +12,8 @@ https://www.whatsmydns.net/#NS/
 
 [Docker For Beginners: From Docker Desktop to Deployment | Travis Media | Youtube](https://www.youtube.com/watch?v=i7ABlHngi1Q)
 
+[Cloud Computing in the Year 2020 | Fireship (Dec 9, 2020) | Youtube](https://www.youtube.com/watch?v=1pBuwKwaHp0)
+
 ---
 
 🐜 _labor_ 
