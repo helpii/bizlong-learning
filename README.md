@@ -16,6 +16,8 @@ https://www.whatsmydns.net/#NS/
 
 ✴ ["The Kamal Stack" thread | kamal (Jan 31, 2019) | Twitter](https://twitter.com/kamal/status/1091020666206179328)
 
+[Serverless: a backend thing that gives superpowers to frontend developers | Slobodan Stojanović (Jul 8, 2020) | DEV.to](https://dev.to/aws-heroes/serverless-a-backend-thing-that-gives-superpowers-to-frontend-developers-163c)
+
 ---
 
 🐜 _labor_ 
