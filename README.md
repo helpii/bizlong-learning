@@ -26,6 +26,8 @@ https://www.whatsmydns.net/#NS/
 
 ---
 
-👥 _social_ 
+👥 _outside_ 
 
 [Pandemia criará tsunami de desmotivação e faltas ao trabalho, alerta psicóloga | Analía Llorente (Jun 6, 2021) | BBC News](https://www.bbc.com/portuguese/geral-57194633)
+
+[Microsoft CEO Satya Nadella On The Cloud Computing Industry And The Future Of Microsoft | CNBC (May 7, 2018) | Youtube](https://www.youtube.com/watch?v=mwDVayzR258)
