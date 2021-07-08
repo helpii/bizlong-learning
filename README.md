@@ -14,6 +14,8 @@ https://www.whatsmydns.net/#NS/
 
 [Cloud Computing in the Year 2020 | Fireship (Dec 9, 2020) | Youtube](https://www.youtube.com/watch?v=1pBuwKwaHp0)
 
+✴ ["The Kamal Stack" thread | kamal (Jan 31, 2019) | Twitter](https://twitter.com/kamal/status/1091020666206179328)
+
 ---
 
 🐜 _labor_ 
