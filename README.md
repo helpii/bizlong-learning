@@ -18,6 +18,8 @@ https://www.whatsmydns.net/#NS/
 
 [Serverless: a backend thing that gives superpowers to frontend developers | Slobodan Stojanović (Jul 8, 2020) | DEV.to](https://dev.to/aws-heroes/serverless-a-backend-thing-that-gives-superpowers-to-frontend-developers-163c)
 
+✴ [Como habilitar a Zona DNS do meu domínio no Registro.br? | nuvemshop (Apr 20, 2021)](https://atendimento.nuvemshop.com.br/166757-registro-br/como-habilitar-a-zona-dns-do-meu-dominio-no-registro-br)
+
 ---
 
 🐜 _labor_ 
